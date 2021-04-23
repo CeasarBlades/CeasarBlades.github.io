@@ -1,0 +1,43 @@
+header { font-size: 40px;
+color: goldenrod }
+h1 { color: goldenrod;}
+h2{ color: goldenrod;}
+body {
+    
+    background-color: rgb(81, 52, 243);
+    text-align: center;
+}
+
+section {
+    background: rgb(82, 52, 243);
+    color: honeydew;
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    background: rgb(104, 235, 228);
+    margin: auto;
+    width: 200px;
+}
+
+p { color: white; }
+
+p{ font-size: 20px;}
+.smaller-image {
+    width: 300px;
+    height: 300px;
+}
+ul.a {
+    list-style-position: left;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+}
+li {
+    display: inline-block;
+    margin: 0 20px 0 0 ;
+}
