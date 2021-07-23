@@ -46,6 +46,12 @@ li {
 body {
     font-size:x-small;
     }
+
+    @media only screen and (max-width: 320px) {
+        body {
+        font-size: smaller;
+        }
+      }
   
   @media only screen and (max-width: 768px) {
     body {
