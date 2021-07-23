@@ -9,6 +9,10 @@ body {
     text-align: center;
 }
 
+img {
+    width: 80%
+}
+
 section {
     background: rgb(82, 52, 243);
     color: honeydew;
